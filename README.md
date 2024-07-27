@@ -23,10 +23,9 @@ Initial data exploration and cleaning steps included:
 
 ## Data Visualization
 Data visualization was conducted to gain insights into the dataset:
-- Histograms for numerical features
-- Bar plots for categorical features
-- Pair plots to explore relationships between features
-- Heatmaps for correlation analysis
+- Elbow method (clustering)
+- Silhouette
+- Bar graphs
 
 ## Data Preprocessing
 The preprocessing steps involved:
